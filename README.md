@@ -1,4 +1,8 @@
-Appcelerator Titanium Mobile  
+[DEPERECATED] Appcelerator Titanium Mobile  
+============================
+
+New Relic has deprecated Titanium support and is not actively contibuting to this repo. Please reach out to support@newrelic.com with any questions.
+
 ============================
 
 Welcome to the Titanium open source project.  Titanium provides
