@@ -5,7 +5,7 @@
 	"dependencies": {
 		"colors": "~0.6.2",
 		"ejs": "~1.0.0",
-		"js-yaml": "~3.2.2",
+		"js-yaml": "~3.13.1",
 		"node-appc": "~0.2.14",
 		"pagedown": "~1.1.0"
 	}
