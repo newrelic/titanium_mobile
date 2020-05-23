@@ -24,7 +24,7 @@
 		"fields": "~0.1.23",
 		"humanize": "~0.0.9",
 		"ioslib": "0.2.11",
-		"moment": "~2.4.0",
+		"moment": "~2.25.1",
 		"node-appc": "0.2.21",
 		"node-uuid": "~1.4.1",
 		"request": "~2.34.0",
